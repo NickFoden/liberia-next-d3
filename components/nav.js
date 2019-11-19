@@ -10,9 +10,7 @@ const Nav = () => (
         </Link>
       </li>
       <li>
-        <Link href="/https://www.liberiachimpanzeerescue.org/">
-          <a>LCRP</a>
-        </Link>
+        <a href="https://www.liberiachimpanzeerescue.org/">LCRP</a>
       </li>
     </ul>
 
